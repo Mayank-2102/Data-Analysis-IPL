@@ -1,1 +1,2 @@
-# Data-Analysis-IPL
+Developed an Image Cartoonifier application using OpenCV and GIMP, enabling the transformation of real-life images into cartoon-like representations. Implemented various image processing techniques, such as edge detection, color quantization, and texture
+synthesis, using OpenCV to achieve the desired cartoon effect. Designed an interface for Image Cartoonifier, allowing users to upload images and view cartoonized results.
